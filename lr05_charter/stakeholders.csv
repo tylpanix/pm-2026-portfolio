@@ -5,3 +5,8 @@ ST-03,Викладачі та завідувачі кафедр,академія
 ST-04,Студентські організації (бронюють найчастіше),студентство,high,low,blocker,keep_informed,BA
 ST-05,Служба системного адміністрування та автентифікації,академія,low,low,neutral,monitor,Dev
 ST-06,Представник служби інформаційної безпеки,Академія,high,high,blocker,manage_closely,BA
+ST-07,"Керівниця проєкту (PM, студентка)",Академія,high,high,supporter,manage_closely,PM
+ST-08,Бізнес-аналітик (BA),Академія,high,low,supporter,keep_informed,BA
+ST-09,"Розробники (Dev, 3 особи)",Академія,high,low,supporter,keep_informed,Dev
+ST-10,Інженер з якості (QA),Академія,high,low,supporter,keep_informed,QA
+ST-11,Спонсор проєкту,Академія,high,high,supporter,manage_closely,PM
