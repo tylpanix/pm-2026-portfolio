@@ -14,7 +14,7 @@
 | Трекер | GitHub Projects |
 | Дошка | [Проєкт tylpanix](https://github.com/users/tylpanix/projects/1) (створено 2026-10-22) |
 | Валюта проєкту | грн |
-| Contingency, % | розраховується в кошторисі (ЛР16) |
+| Contingency, % | 2.593985% від прямих витрат; розрахунок і підстава — `lr16_budget/README.md` |
 
 ### Попередня тема семестрового проєкту
 

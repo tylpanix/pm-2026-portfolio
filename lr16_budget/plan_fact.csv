@@ -1,1 +1,3 @@
 sprint,planned_points,actual_points,planned_cost_per_point,actual_cost_per_point,variance_pct,source_file,note
+1,30,14,6133.33,13142.86,114.29,lr09_forecast/velocity.csv,"Журнал показує, що закрито весь обсяг Sprint 1 у 14 SP; спринт-беклог був менший за номінальну місткість V03 у 30 SP, датованих блокерів немає."
+2,30,12,6133.33,15333.33,150.00,lr09_forecast/velocity.csv,"Журнал показує, що закрито весь обсяг Sprint 2 у 12 SP; спринт-беклог був менший за номінальну місткість V03 у 30 SP, датованих блокерів немає."

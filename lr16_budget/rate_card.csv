@@ -1,1 +1,5 @@
 role,fte,hours,rate,source,note
+PM,0.5,320,400,https://dou.ua/lenta/articles/salary-report-managers-summer-2026/,Middle Project Manager: $2000 проти $2500 у Middle Dev; застосувала співвідношення 0.80 до базової ставки 500 грн/год.
+BA,0.5,320,440,https://dou.ua/lenta/articles/salary-report-data-winter-2026/,Middle Business Analyst: $2200 проти $2500 у Middle Dev; застосувала співвідношення 0.88 до базової ставки 500 грн/год.
+Dev,3,1920,500,https://dou.ua/lenta/articles/salary-report-devs-summer-2026/,Базова масштабована ставка; медіана Middle Software Engineer — $2500.
+QA,1,640,380,https://dou.ua/lenta/articles/salary-report-qa-summer-2026/,"Для Middle QA DOU наводить $1850–1900 залежно від формату; для розрахунку використала верхню межу $1900, або 0.76 від Dev."
